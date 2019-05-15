@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BodyWalk.cs">
+    <Files>
+      <File FileName="Assets\Scripts\HeadLookWalk.cs" Line="12" Column="43" />
+      <File FileName="Assets\Scripts\Clicker.cs" Line="8" Column="3" />
+      <File FileName="Assets\Scripts\HeadGesture.cs" Line="11" Column="16" />
+      <File FileName="Assets\Scripts\GestureWalk.cs" Line="18" Column="17" />
+      <File FileName="Assets\Scripts\BodyWalk.cs" Line="11" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
